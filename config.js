@@ -41,30 +41,31 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
     
 
 /*============== SOCIAL ==============*/
-global.sig = 'https://instagram.com/XyzenzKannaV1'
-global.sgh = 'https://github.com/XyzenzKannaV1'
-global.sgc = 'https://chat.whatsapp.com/KNuPWvGn3AG0srT3vdr0Ea'
-global.sdc = 'https://wa.me/6283866366437'
-global.snh = 'https://youtube.com/channel/Siesta Botz'
+global.sig = 'https://instagram.com/gbrtz_'
+global.sgh = 'https://github.com/brtz2022'
+global.sgc = 'https://chat.whatsapp.com/KCUw7JXoTDbGItnen8FjfX'
+global.sdc = 'https://wa.me/6285214110608'
+global.snh = 'https://youtube.com'
 
 /*============== PAYMENT ==============*/
-global.pdana = '083866366437'
-global.povo = '083866366437'
-global.pgopay = '083866366437'
+global.pdana = '085214110608'
+global.povo = '085214110608'
+global.pgopay = '085214110608'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283112831554'
-global.nomorown = '6283866366437'
-global.namebot = 'Siesta MD'
-global.nameown = 'Kanna Chan'
+global.nomorbot = '6282120031850'
+global.nomorown = '6285214110608'
+global.namebot = 'Cystom BOT'
+global.nameown = 'Brtz.'
+
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283866366437'],
-  ['6283866366437'],
-  ['6283866366437'],
-  ['6283866366437', 'Kanna Chan', true]
+
+
+  ['6285721455825'],
+  ['6285214110608', 'Owner', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -109,13 +110,13 @@ global.APIKeys = { // APIKey Here
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'Siesta MD' //Main Watermark
-global.wm2 = 'Siesta MD'
-global.wm3 = 'Siesta MD'
+global.wm = 'Cystom BOT' //Main Watermark
+global.wm2 = 'Cystom BOT'
+global.wm3 = 'Cystom BOT'
 global.botdate = `☘︎ 𝗗𝗮𝘁𝗲: ${week} ${date}\n☘︎ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `☘︎ 𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 𝗕𝗼𝘁 𝗠𝘂𝗹𝘁𝗶-𝗗𝗲𝘃𝗶𝗰𝗲| By ${global.nameown}`
-global.author = '┄┄┄┅┅❑ Kanna Chan🤗 ❑┅┅┄┄┄'
+global.author = '┄┄┄┅┅❑ @Someone ❑┅┅┄┄┄'
 
 
 /*============== LOGO ==============*/
